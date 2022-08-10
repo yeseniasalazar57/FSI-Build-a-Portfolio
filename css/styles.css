@@ -1,15 +1,21 @@
 
 body {
-    background-color: peachpuff
+    background-color: wheat;
     }
-
+      h1 {
+        color: darkolivegreen }
+        h2 {
+          color: black
+        }
+        h3 {
+          color: darkolivegreen }
     {
         line-height: 1.9em;
     }
     
     div {
         border-style: solid;
-
+        border-width: 1px;
         font-size: large;
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
